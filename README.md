@@ -2,6 +2,10 @@
 
 一个基于 Koa.js 的高性能 API 计费系统，支持按月计费和按调用量计费。
 
+## 演示（Live Demo）
+
+https://open.kainy.cn/#gh
+
 ## 主要特性
 
 - 支持多种计费模式：
