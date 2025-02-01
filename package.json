@@ -1,0 +1,26 @@
+{
+  "name": "api-billing-system",
+  "version": "1.0.0",
+  "description": "A robust API billing system built with Koa.js",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "koa": "^2.14.2",
+    "koa-router": "^12.0.1",
+    "koa-bodyparser": "^4.4.1",
+    "mongoose": "^7.5.0",
+    "winston": "^3.10.0",
+    "joi": "^17.10.1",
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4",
+    "redis": "^4.6.8"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4",
+    "nodemon": "^3.0.1"
+  }
+}
