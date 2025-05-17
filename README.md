@@ -97,6 +97,40 @@ PUT /billing/plan
 - [ ] 添加计费报表导出功能
 - [ ] 集成支付网关
 
+## 界面截图
+
+### 用户端
+
+##### >>用户-首页
+<img width="1189" alt="用户-首页" src="https://github.com/user-attachments/assets/adbc6466-d602-49fe-9479-11bd30e1be73" />
+
+##### >>用户-使用统计
+![用户-使用统计](https://github.com/user-attachments/assets/811f0dfe-b59d-451c-9dde-26976fdc7776)
+
+##### >>用户-账单中心
+![用户-账单中心](https://github.com/user-attachments/assets/02f110ff-d9dd-4b4d-9793-87b1194d7829)
+
+##### >>用户-充值和支付
+![用户-充值和支付](https://github.com/user-attachments/assets/eda60591-9d88-48b1-a651-91781b0143c8)
+
+##### >>用户-工单系统
+![用户-工单系统](https://github.com/user-attachments/assets/654f76b7-87d3-445b-8b8e-18fa010c7bfa)
+
+### 管理员端
+
+##### >>管理员-首页
+![管理员-首页](https://github.com/user-attachments/assets/3660b513-8de2-43a4-97ca-1428ba22f015)
+
+##### >>管理员-用户管理-查看调用记录
+![管理员-用户管理-查看调用记录](https://github.com/user-attachments/assets/d2e83101-4b67-4fc2-998d-be2e35c15cac)
+
+##### >>管理员-工单管理
+![管理员-工单管理](https://github.com/user-attachments/assets/bf7487bb-1f79-49b3-ba75-835807c33588)
+
+##### >>管理员-营销设置
+![管理员-营销设置](https://github.com/user-attachments/assets/bfa4872f-4048-4680-8ad7-42f22975e4b0)
+
+
 ## 许可证
 
 MIT
