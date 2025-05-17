@@ -1,6 +1,6 @@
-# API Billing System
+# API Billing Gateway 开源API计费网关
 
-一个基于 Koa.js 的高性能 API 计费系统，支持按月计费和按调用量计费。
+一个基于 Koa.js 的高性能 API 计费网关，支持按月计费和按调用量计费。
 
 ## 演示（Live Demo）
 
